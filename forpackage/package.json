@@ -1,0 +1,52 @@
+{
+  "_from": "percobaan-simple-blockchain",
+  "_id": "percobaan-simple-blockchain@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Ww0OOzfFxWrnWVZF5+rineY6FbuakuM8nPPBsm/eNCj1aXSMId54gFiE7FHaFQA1BcVWYZd/cdfv8yURehFs4A==",
+  "_location": "/percobaan-simple-blockchain",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "percobaan-simple-blockchain",
+    "name": "percobaan-simple-blockchain",
+    "escapedName": "percobaan-simple-blockchain",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/percobaan-simple-blockchain/-/percobaan-simple-blockchain-1.0.0.tgz",
+  "_shasum": "772f4ff08c0500958acc66e93bc643a15d137866",
+  "_spec": "percobaan-simple-blockchain",
+  "_where": "D:\\untuk tes package",
+  "author": {
+    "name": "aslan alwi"
+  },
+  "bugs": {
+    "url": "https://github.com/elangbijak4/Simple-blockchain-as-package-nodejs/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "ini adalah demonstrasi blockchain sederhana sebagai package nodejs",
+  "homepage": "https://github.com/elangbijak4/Simple-blockchain-as-package-nodejs#readme",
+  "keywords": [
+    "simple",
+    "block",
+    "blockchain"
+  ],
+  "license": "MIT",
+  "main": "Blockchain.js",
+  "name": "percobaan-simple-blockchain",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elangbijak4/Simple-blockchain-as-package-nodejs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
